@@ -1,0 +1,6 @@
+Name		Mani
+Father		Hassan
+Roll		19
+Class		11th
+contact		03451111222
+Address		Tehsiel,Daska,District,Sialkot
