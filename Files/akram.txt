@@ -1,0 +1,6 @@
+Name		Akram
+Father		khan
+Roll		7
+Class		11th
+contact		03451111222
+Address		Tehsiel,Daska,District,Sialkot

@@ -1,0 +1,6 @@
+Name		Umer
+Father		Tariq
+Roll		15
+Class		11th
+contact		03451111222
+Address		Tehsiel,Daska,District,Sialkot

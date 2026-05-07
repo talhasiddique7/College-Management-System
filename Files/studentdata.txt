@@ -1,0 +1,22 @@
+Talha		1
+Ramish		2
+ali		3
+hasnain		4
+Zain		5
+Saad		6
+Akram		7
+esha		8
+Zunair		9
+ayesha		10
+Emash		11
+asif		12
+umer		13
+Anas		14
+Hassan		15
+Hania		16
+Pakiza		17
+Khulood		18
+Mani		19
+Umair		2
+
+1		1

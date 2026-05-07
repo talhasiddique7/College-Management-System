@@ -1,0 +1,6 @@
+Name		Umair
+Father		Ali
+Roll		20
+Class		11th
+contact		03451111222
+Address		Tehsiel,Daska,District,Sialkot

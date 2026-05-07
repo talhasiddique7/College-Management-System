@@ -1,0 +1,6 @@
+Name		Talha
+Father		Siddique
+Roll		1
+Class		11th
+contact		03459740743
+Address		Tehsiel,Daska,District,Sialkot
